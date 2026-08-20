@@ -1,4 +1,7 @@
 # Record-Image-Acquisition-using-Web-Camera
+### Developed By:
+### Name: Selvaganesh B 
+### Register No: 212224230258
 
 ---
 
@@ -41,12 +44,6 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 ---
 
 ## 💻 Program
-
-### Developed By:
-**Name:** Selvaganesh B 
-
-### Register No:
-212224230258
 ---
 
 ## Output
